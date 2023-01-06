@@ -173,3 +173,7 @@ section{
 hr{
     width: 550px;
 }
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
